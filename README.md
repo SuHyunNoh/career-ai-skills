@@ -14,10 +14,10 @@
 
 | 스킬 | 언제 | 하는 일 |
 |---|---|---|
-| [career-define](career-define/SKILL.md) | 준비 시작 | 질문으로 사례 은행 · 고정 프로필 · 지향 한 문장을 만든다 |
-| [role-match](role-match/SKILL.md) | 지원 전, 공고마다 | 자리가 보는 포인트 3개 × 내 사례 → 강 / 번역 필요 / 없음, 결격 점검, 예측 기록 |
+| [career-define](career-define/) | 준비 시작 | 질문으로 사례 은행 · 고정 프로필 · 지향 한 문장을 만든다 |
+| [role-match](role-match/) | 지원 전, 공고마다 | 자리가 보는 포인트 3개 × 내 사례 → 강 / 번역 필요 / 없음, 결격 점검, 예측 기록 |
 | [business-brief](business-brief/) | 최종 면접 · 오퍼 · 합류 준비 | 회사의 사업·재무 구조, 주장 vs 데이터, 플라이휠, 30·60·90, 아젠다 |
-| [interview-prep](interview-prep/SKILL.md) | 면접 전·후 | 단계별 예상 질문과 답의 뼈대, 실무 연습, 역질문 4축, 복기 패턴 |
+| [interview-prep](interview-prep/) | 면접 전·후 | 단계별 예상 질문과 답의 뼈대, 실무 연습, 역질문 4축, 복기 패턴 |
 
 ```
 career-define ──▶ role-match ──▶ business-brief ──▶ interview-prep
